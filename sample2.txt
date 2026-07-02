@@ -1,3 +1,0 @@
-This is Sample2.txt file created in local system
-
-After push : am adding this line
